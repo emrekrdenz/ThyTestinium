@@ -1,0 +1,30 @@
+Created by testinium on 2.06.2021
+
+This is a concept file with following syntax for each concept.
+# Tek yön uçuş seçilir
+*Tek Yön Uçuş seç
+* "3" saniye bekle
+
+#Yön bilgisi olarak SAW to ESB Seçilir
+*Kalkış yeri seç
+*"3" saniye bekle
+*Kalkış yerini "SAW" olarak seç
+*"3" saniye bekle
+*Varış yerini "ESB" olarak seç
+*"3" saniye bekle
+
+#Tarih bilgisi günün tarihinden 2 gün sonraya seçilir
+*Tarih seç
+*"3" saniye bekle
+
+#Tamam butonuna tıklanır
+*Tamam butonuna tıkla
+
+
+#Yetişkin bilgisi 2 olarak seçilir
+*Kişi sayısını "1" artır
+*"3" saniye bekle
+
+#Uçuş ara butonuna tıklanır.
+*Uçuş ara
+*"3" saniye bekle
