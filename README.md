@@ -22,3 +22,5 @@ Thy mobil Appium ile test
 • Ekonomik uçuş seçilir
 
 • Devam butonuna tıklanır.
+
+[banner resmi](https://s6.dosya.tc/server2/6d62nv/ekran.PNG.html)
